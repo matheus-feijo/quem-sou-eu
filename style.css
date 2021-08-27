@@ -1,0 +1,87 @@
+body{
+    background-image: linear-gradient(to right,#F2F2F2,#BFBFBF );
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    color: rgba(27, 25, 25, 0.822);
+    font-size: 40px;
+    text-shadow: 2px 2px white;
+}
+
+h2{
+    color: rgba(34, 31, 31, 0.822);
+    margin-left: 15px;
+    font-size: 30px;
+    text-shadow: 1px 2px white;
+
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(59, 47, 47);
+}
+
+li{
+    font-size: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+    list-style-type: none;
+}
+
+p{
+    text-justify: auto;
+    font-size: 20px;
+}
+
+footer{
+    position: static;
+    bottom: 0;
+    background-image: linear-gradient(to top, #74747480, #0d0d0d8f);
+    color: #FFF;
+    width: 100%;
+    height: 150px;   
+    text-align: center;
+}
+
+
+#social{
+    background-image: linear-gradient(to right,#BFBFBF, #bebcbc27);
+    padding: 2%;
+    margin-left: 10%;
+    border-radius: 5px;
+    width: 70%;
+
+}
+
+#curiosidades{
+    background-image: linear-gradient(to right,#BFBFBF, #bebcbc27);
+    padding: 2%;
+    width: 70%;
+    border-radius: 5px;
+    line-height: 1.5;
+    margin-left: 10%;
+}
+
+#container{
+    margin-top: 5px;
+    float: right;
+    text-align: center;
+    position: relative;
+    background-size: 100%;
+    margin-right: 15%;
+}
+
+.container-body{
+    margin-bottom: 50px;
+}
+
+
